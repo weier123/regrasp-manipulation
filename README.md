@@ -1,4 +1,4 @@
-# Shadow-Hand Controller
+# Shadow-Hand Controller+手腕弯曲自由度
 
 We constructed a controller for Shadow-Hand model in Mujoco environment using Deep Learning & Deep Reinforcement Learning. The controller allows the hand to perform sign-language gestures. The supported gestures of this hand are:
 
